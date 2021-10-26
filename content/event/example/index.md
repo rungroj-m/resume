@@ -1,73 +1,60 @@
 ---
-title: Example Talk
-
-event: Wowchemy Conference
+abstract: "Self-admitted technical debt refers to situations where a software
+  developer knows that their current implementation is not optimal and indicates
+  this using a source code comment. In this work, we hypothesize that it is
+  possible to develop automated techniques to understand a subset of these
+  comments in more detail, and to propose tool support that can help developers
+  manage self-admitted technical debt more effectively. Based on a qualitative
+  study of 333 comments indicating self-admitted technical debt, we first
+  identify one particular class of debt amenable to automated management:
+  on-hold self-admitted technical debt (on-hold SATD), i.e., debt which contains
+  a condition to indicate that a developer is waiting for a certain event or an
+  updated functionality having been implemented elsewhere. We then design and
+  evaluate an automated classifier which can identify these on-hold instances
+  with an area under the receiver operating characteristic curve (AUC) of 0.98
+  as well as detect the specific conditions that developers are waiting for. Our
+  work presents a first step towards automated tool support that is able to
+  indicate when certain instances of self-admitted technical debt are ready to
+  be addressed."
+slides: example
+url_pdf: ""
+summary: An example talk using Wowchemy's Markdown slides feature.
+title: 'Wait For It: Identifying "On-Hold"Self-Admitted Technical Debt'
+location: ICSE 2021
+date: 2021-05-25T16:00:43.855Z
+date_end: 2021-06-02T14:00:00.000Z
+all_day: false
+event: 43rd ACM/IEEE International Conference on Software Engineering (ICSE
+  2021) Journal First.
 event_url: https://example.org
-
-location: Wowchemy HQ
+featured: false
+authors: []
+url_video: ""
+url_slides: ""
 address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
-  postcode: '94305'
+  postcode: "94305"
   country: United States
-
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
-
-authors: []
+links: []
+publishDate: 2017-01-01T00:00:00Z
 tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects:
-- example
+  - example
+image:
+  caption: ""
+  focal_point: Right
+url_code: ""
 ---
-
 {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
 Slides can be added in a few ways:
 
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+* **Create** slides using Wowchemy's *[Slides](https://wowchemy.com/docs/managing-content/#create-slides)* feature and link using `slides` parameter in the front matter of the talk file
+* **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+* **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
