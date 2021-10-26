@@ -33,7 +33,6 @@ education:
     - course: Bachelor of Engineering, Computer Engineering
       institution: Kasetsart University
       year: 2016
-email: <firstname>.md<at>gmail.com
 superuser: true
 highlight_name: true
 ---
