@@ -10,9 +10,6 @@ interests:
   - Text classification
   - Blockchain
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact <firstname>.md<at>gmail.com
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.jp/citations?user=O3K3AZcAAAAJ&hl=en
@@ -34,7 +31,7 @@ education:
     - course: Bachelor of Engineering, Computer Engineering
       institution: Kasetsart University
       year: 2016
-email: ""
+email: <firstname>.md<at>gmail.com
 superuser: true
 highlight_name: true
 ---
