@@ -21,6 +21,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/rungroj-maipradit-0276661b8/
 organizations: []
+contact: <firstname>.md{at}gmail.com
 education:
   courses:
     - course: Doctor of Engineering (Expected)
