@@ -30,8 +30,7 @@ authors:
   - Rungroj Maipradit
   - Hideaki Hata
   - Kenichi Matsumoto
-author_notes:
-  - Work as co-author
+author_notes: []
 publication: The 36th International Conference on Automated Software Engineering
 summary: ""
 url_dataset: ""
@@ -42,7 +41,7 @@ url_video: ""
 title: "FixMe: A GitHub Bot for Detecting and Monitoring On-Hold Self-Admitted
   Technical Debt"
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:
