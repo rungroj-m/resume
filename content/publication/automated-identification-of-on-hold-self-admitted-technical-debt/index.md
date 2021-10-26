@@ -46,5 +46,5 @@ image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2021-10-26T06:49:59.974Z
+date: 2020-09-01T00:00:00.000Z
 ---
