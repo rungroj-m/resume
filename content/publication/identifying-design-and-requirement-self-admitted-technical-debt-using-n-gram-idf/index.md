@@ -2,7 +2,7 @@
 title: Identifying design and requirement self-admitted technical debt using n-gram idf
 publication_types:
   - "1"
-author_notes:
+authors:
   - Supatsara Wattanakriengkrai
   - Rungroj Maipradit
   - Hideki Hata

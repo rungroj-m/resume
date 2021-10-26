@@ -8,6 +8,7 @@ authors:
   - Hideaki Hata
   - Kenichi Matsumoto
 doi: https://doi.org/10.1007/s10664-020-09854-3
+publication: "Empirical Software Engineering"
 abstract: "Self-admitted technical debt refers to situations where a software
   developer knows that their current implementation is not optimal and indicates
   this using a source code comment. In this work, we hypothesize that it is
@@ -31,5 +32,5 @@ image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2021-10-26T06:53:46.986Z
+date: 2020-09-05T00:00:00.000Z
 ---
