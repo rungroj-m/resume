@@ -21,8 +21,15 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - admin
-  - Robert Ford
+  - Saranphon Phaithoon
+  - Supakarn Wongnil
+  - Patiphol Pussawong
+  - Morakot Choetkiertikul
+  - Chaiyong Ragkhitwetsagul
+  - Thanwadee Sunetnanta
+  - Rungroj Maipradit
+  - Hideaki Hata
+  - Kenichi Matsumoto
 author_notes:
   - Work as co-author
 publication: The 36th International Conference on Automated Software Engineering
@@ -44,7 +51,7 @@ image:
   preview_only: false
 date: 2021-10-26T06:44:50.884Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
