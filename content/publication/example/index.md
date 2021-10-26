@@ -1,4 +1,19 @@
 ---
+title: "FixMe: A GitHub Bot for Detecting and Monitoring On-Hold Self-Admitted Technical Debt"
+publication_types:
+  - "1"
+authors:  
+  - Saranphon Phaithoon
+  - Supakarn Wongnil
+  - Patiphol Pussawong
+  - Morakot Choetkiertikul
+  - Chaiyong Ragkhitwetsagul
+  - Thanwadee Sunetnanta
+  - Rungroj Maipradit
+  - Hideaki Hata
+  - Kenichi Matsumoto
+publication: The 36th International Conference on Automated Software Engineering
+publication_short: ASE 2021
 abstract: Self-Admitted Technical Debt (SATD) is a special form of technical
   debt in which developers intentionally record their hacks in the code by
   adding comments for attention. Here, we focus on issue-related "On-hold SATD",
@@ -16,41 +31,11 @@ abstract: Self-Admitted Technical Debt (SATD) is a special form of technical
   with 11 participants shows that our FixMe bot can support them in dealing with
   On-hold SATD. FixMe is available at https://www.fixmebot.app/ and FixMe's VDO
   is at https://youtu.be/YSz9kFxN_YQ.
-slides: ""
-url_pdf: ""
-publication_types:
-  - "1"
-authors:
-  - Saranphon Phaithoon
-  - Supakarn Wongnil
-  - Patiphol Pussawong
-  - Morakot Choetkiertikul
-  - Chaiyong Ragkhitwetsagul
-  - Thanwadee Sunetnanta
-  - Rungroj Maipradit
-  - Hideaki Hata
-  - Kenichi Matsumoto
-author_notes: []
-publication: The 36th International Conference on Automated Software Engineering
-summary: ""
-url_dataset: ""
-url_project: ""
-publication_short: ASE 2021
-url_source: ""
-url_video: ""
-title: "FixMe: A GitHub Bot for Detecting and Monitoring On-Hold Self-Admitted
-  Technical Debt"
-doi: ""
+draft: false
 featured: false
-tags: []
-projects: []
 image:
-  caption: ""
+  filename: ""
   focal_point: ""
   preview_only: false
-date: 2021-10-26T06:44:50.884Z
-url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
-url_poster: ""
-url_code: ""
+date: 2021-09-07T00:00:00.000Z
 ---
