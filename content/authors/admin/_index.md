@@ -1,6 +1,7 @@
 ---
 title: Rungroj MAIPRADIT
 role: ""
+avatar_filename: rungroj-1-.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
