@@ -26,7 +26,7 @@ date_end: 2021-06-02T14:00:00.000Z
 all_day: false
 event: 43rd ACM/IEEE International Conference on Software Engineering (ICSE
   2021) Journal First.
-event_url: https://example.org
+event_url: https://conf.researchr.org/details/icse-2021/icse-2021-Journal-First-Papers/52/Wait-For-It-Identifying-On-Hold-Self-Admitted-Technical-Debt
 featured: false
 authors: []
 url_video: ""
@@ -40,8 +40,7 @@ address:
 links: []
 publishDate: 2017-01-01T00:00:00.000Z
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: ""
   focal_point: ""
