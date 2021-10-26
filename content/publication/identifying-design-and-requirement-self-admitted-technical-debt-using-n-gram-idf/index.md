@@ -1,6 +1,5 @@
 ---
-title: Identifying design and requirement self-admitted technical debt using
-  n-gram idf
+title: Identifying design and requirement self-admitted technical debt using n-gram idf
 publication_types:
   - "1"
 author_notes:
@@ -36,5 +35,5 @@ image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2021-10-26T06:56:20.134Z
+date: 2018-12-04T00:00:00.000Z
 ---
