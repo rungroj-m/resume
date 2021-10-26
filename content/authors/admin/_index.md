@@ -1,9 +1,9 @@
 ---
 title: Rungroj MAIPRADIT
 role: ""
-avatar_filename: rungroj-1-.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: rungroj.png
+# bio: My research interests include distributed robotics, mobile computing and
+  # programmable matter.
 interests:
   - Empirical Software Engineering
   - Machine learning
@@ -21,7 +21,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/rungroj-maipradit-0276661b8/
 organizations: []
-contact: <firstname>.md{at}gmail.com
+# contact: <firstname>.md{at}gmail.com
 education:
   courses:
     - course: Doctor of Engineering (Expected)
