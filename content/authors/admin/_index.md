@@ -29,7 +29,7 @@ education:
       year: 2022
     - course: Master of Engineering, Information Science
       institution: Nara Institute of Science and Technology
-      year: 2018
+      year: 2019
     - course: Bachelor of Engineering, Computer Engineering
       institution: Kasetsart University
       year: 2016
