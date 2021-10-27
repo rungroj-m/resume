@@ -1,21 +1,14 @@
 ---
-abstract: "Self-admitted technical debt refers to situations where a software
-  developer knows that their current implementation is not optimal and indicates
-  this using a source code comment. In this work, we hypothesize that it is
-  possible to develop automated techniques to understand a subset of these
-  comments in more detail, and to propose tool support that can help developers
-  manage self-admitted technical debt more effectively. Based on a qualitative
-  study of 333 comments indicating self-admitted technical debt, we first
-  identify one particular class of debt amenable to automated management:
-  on-hold self-admitted technical debt (on-hold SATD), i.e., debt which contains
-  a condition to indicate that a developer is waiting for a certain event or an
-  updated functionality having been implemented elsewhere. We then design and
-  evaluate an automated classifier which can identify these on-hold instances
-  with an area under the receiver operating characteristic curve (AUC) of 0.98
-  as well as detect the specific conditions that developers are waiting for. Our
-  work presents a first step towards automated tool support that is able to
-  indicate when certain instances of self-admitted technical debt are ready to
-  be addressed."
+abstract: "This paper reports on the results of a qualitative study on the
+  removal of self-admitted technical debt (SATD), and reveals a particular class
+  of self-admitted technical debt which is amenable to automated management:
+  ``on-hold SATD''. We define on-hold SATD as self-admitted technical debt which
+  contains a condition to indicate that a developer is waiting for a certain
+  event or an updated functionality having been implemented elsewhere. We then
+  design and evaluate an automated classifier which can identify these on-hold
+  instances with an area under the receiver operating characteristic curve (AUC)
+  of 0.98 as well as detect the specific conditions that developers are waiting
+  for."
 slides: ""
 url_pdf: ""
 title: 'Wait For It: Identifying "On-Hold"Self-Admitted Technical Debt'
