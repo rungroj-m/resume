@@ -18,7 +18,6 @@ abstract: "Self-admitted technical debt refers to situations where a software
   be addressed."
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
 title: 'Wait For It: Identifying "On-Hold"Self-Admitted Technical Debt'
 location: ICSE 2021
 date: 2021-05-25T16:00:43.855Z
