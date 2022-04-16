@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Rungroj Maipradit # Academic # Website name
-# baseurl: 'https://rungrojm.com' # Website URL
-baseurl: 'https://rungroj-m.github.io'
+baseurl: 'https://rungrojm.com' # Website URL
+# baseurl: 'https://rungroj-m.github.io'
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
